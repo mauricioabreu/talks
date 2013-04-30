@@ -1,0 +1,13 @@
+Introdução a SQLAlchemy
+
+Este documento é uma introdução à biblioteca de acesso a dados SQLAlchemy, 
+construída sobre padrões de Mapeamento de Objeto Relacional (ORM - Object Relational Mapping).
+As apresentações e as demonstrações de código são de caráter educacional.
+
+Conteúdo:
+
+Banco de dados
+ORM
+Obtendo dados
+Adicionando, deletando e atualizadno dados
+Relacionamentos
